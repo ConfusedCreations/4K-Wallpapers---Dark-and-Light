@@ -1,0 +1,8 @@
+This was recorded in version 2 of the handler
+
+This Handler Fix folder solves one of the issues in version 1, where on mac os, if you didn't delete the windows handler, 
+files most likley got corrupted. 
+
+If your on windows, you can go ahead and delete this folder once you've download the zip.
+
+- ConfusedCreations
