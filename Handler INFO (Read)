@@ -1,0 +1,9 @@
+The handler is for storing the images inside a database, that is why each image takes up almost no space. 
+
+IF YOUR ON WINDOWS:
+You do not have to mess with handler
+
+IF YOUR ON MAC:
+Delete the regular handler, if you restart or shut down your mac before doing this, images may become corrupted.
+
+We are working to fix this error on MacOS
